@@ -30,11 +30,11 @@ let enzo = Developer(
 
 <div align="center">
 
-**Mobile & Apple**
+**Mobile**
 
 <div align="center">
 
-[![](https://skillicons.dev/icons?i=swift,apple)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=swift)](https://skillicons.dev)
 
 </div>
 
