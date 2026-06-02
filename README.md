@@ -5,7 +5,7 @@
 <br/>
 
 [![Apple Developer Academy](https://img.shields.io/badge/Apple_Developer_Academy-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/EnzoFerroni)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enzoferroni)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enzoferroni)
 ![Visitors](https://komarev.com/ghpvc/?username=EnzoFerroni&style=for-the-badge&color=FA7343&label=VISITORS)
 
 </div>
