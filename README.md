@@ -64,7 +64,7 @@ let enzo = Developer(
 
 **Shell & Operating Systems**
 
-[![](https://skillicons.dev/icons?i=bash,powershell,linux,windows)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=bash,powershell,linux,windows,apple)](https://skillicons.dev)
 
 **Design & Testing**
 
