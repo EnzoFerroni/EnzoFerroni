@@ -80,32 +80,6 @@ let enzo = Developer(
 
 ---
 
-## 📌 Featured Projects
-
-<div align="center">
-
-<!-- Swap PLACEHOLDER values for owner/repo. Works with forks and org repos. -->
-<a href="https://github.com/EnzoFerroni/PLACEHOLDER-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoFerroni&repo=PLACEHOLDER-1&theme=dark&hide_border=true&title_color=FA7343&icon_color=FA7343&bg_color=0D1117" />
-</a>
-<a href="https://github.com/EnzoFerroni/PLACEHOLDER-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoFerroni&repo=PLACEHOLDER-2&theme=dark&hide_border=true&title_color=FA7343&icon_color=FA7343&bg_color=0D1117" />
-</a>
-
-</div>
-
----
-
-## 📈 Metrics
-
-<div align="center">
-
-<img src="./github-metrics.svg" alt="Metrics" width="100%"/>
-
-</div>
-
----
-
 ## 📊 Contributions
 
 <div align="center">
