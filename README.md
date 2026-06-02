@@ -44,7 +44,7 @@ let enzo = Developer(
 
 **Backend**
 
-[![](https://skillicons.dev/icons?i=python,java,nodejs,django,spring,maven)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=java,nodejs,django,spring,maven)](https://skillicons.dev)
 
 **Databases**
 
@@ -56,7 +56,7 @@ let enzo = Developer(
 
 **Data & AI**
 
-[![](https://skillicons.dev/icons?i=anaconda,r)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,anaconda,r)](https://skillicons.dev)
 
 **Editors & Version Control**
 
