@@ -77,19 +77,11 @@ let enzo = Developer(
 
 ---
 
-## 📊 3D Contribution Calendar
+## 📊 Contributions
 
 <div align="center">
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%"/>
-
-</div>
-
----
-
-## 🐍 Contributions
-
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/EnzoFerroni/EnzoFerroni/output/snake.svg" alt="Snake animation" />
 
