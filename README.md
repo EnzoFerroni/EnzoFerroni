@@ -81,7 +81,7 @@ let enzo = Developer(
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contributions" width="100%"/>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%"/>
 
 </div>
 
@@ -95,10 +95,3 @@ let enzo = Developer(
 
 </div>
 
----
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=EnzoFerroni&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
