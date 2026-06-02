@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FA7343&height=200&section=header&text=Enzo%20Ferroni&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=iOS%20Developer%20%7C%20Apple%20Developer%20Academy&descAlignY=55&descSize=18&descAlignX=50" width="100%" alt="header" />
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FA7343&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Enzo+Ferroni+%F0%9F%91%8B;iOS+Developer+%F0%9F%8D%8E;Always+building+something+%E2%9C%8C%EF%B8%8F;Let%27s+connect+%F0%9F%91%87" alt="Typing SVG" />
