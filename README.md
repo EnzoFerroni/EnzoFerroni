@@ -32,47 +32,75 @@ let enzo = Developer(
 
 **Mobile**
 
-<div align="center">
-
-[![](https://skillicons.dev/icons?i=swift)](https://skillicons.dev)
-
-</div>
+<a href="https://www.swift.org" title="Swift"><img height="48" src="https://skillicons.dev/icons?i=swift"/></a>
 
 **Frontend**
 
-[![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite)](https://skillicons.dev)
+<a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML"><img height="48" src="https://skillicons.dev/icons?i=html"/></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS"><img height="48" src="https://skillicons.dev/icons?i=css"/></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img height="48" src="https://skillicons.dev/icons?i=js"/></a>
+<a href="https://www.typescriptlang.org" title="TypeScript"><img height="48" src="https://skillicons.dev/icons?i=ts"/></a>
+<a href="https://react.dev" title="React"><img height="48" src="https://skillicons.dev/icons?i=react"/></a>
+<a href="https://nextjs.org" title="Next.js"><img height="48" src="https://skillicons.dev/icons?i=nextjs"/></a>
+<a href="https://tailwindcss.com" title="Tailwind CSS"><img height="48" src="https://skillicons.dev/icons?i=tailwind"/></a>
+<a href="https://getbootstrap.com" title="Bootstrap"><img height="48" src="https://skillicons.dev/icons?i=bootstrap"/></a>
+<a href="https://vitejs.dev" title="Vite"><img height="48" src="https://skillicons.dev/icons?i=vite"/></a>
 
 **Backend**
 
-[![](https://skillicons.dev/icons?i=java,nodejs,django,spring,maven)](https://skillicons.dev)
+<a href="https://dev.java" title="Java"><img height="48" src="https://skillicons.dev/icons?i=java"/></a>
+<a href="https://nodejs.org" title="Node.js"><img height="48" src="https://skillicons.dev/icons?i=nodejs"/></a>
+<a href="https://www.djangoproject.com" title="Django"><img height="48" src="https://skillicons.dev/icons?i=django"/></a>
+<a href="https://spring.io" title="Spring"><img height="48" src="https://skillicons.dev/icons?i=spring"/></a>
+<a href="https://maven.apache.org" title="Maven"><img height="48" src="https://skillicons.dev/icons?i=maven"/></a>
 
 **Databases**
 
-[![](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,supabase)](https://skillicons.dev)
+<a href="https://www.mysql.com" title="MySQL"><img height="48" src="https://skillicons.dev/icons?i=mysql"/></a>
+<a href="https://www.postgresql.org" title="PostgreSQL"><img height="48" src="https://skillicons.dev/icons?i=postgres"/></a>
+<a href="https://www.sqlite.org" title="SQLite"><img height="48" src="https://skillicons.dev/icons?i=sqlite"/></a>
+<a href="https://www.mongodb.com" title="MongoDB"><img height="48" src="https://skillicons.dev/icons?i=mongodb"/></a>
+<a href="https://supabase.com" title="Supabase"><img height="48" src="https://skillicons.dev/icons?i=supabase"/></a>
 
 **Cloud & DevOps**
 
-[![](https://skillicons.dev/icons?i=aws,gcp,azure,docker,vercel,grafana)](https://skillicons.dev)
+<a href="https://aws.amazon.com" title="AWS"><img height="48" src="https://skillicons.dev/icons?i=aws"/></a>
+<a href="https://cloud.google.com" title="Google Cloud"><img height="48" src="https://skillicons.dev/icons?i=gcp"/></a>
+<a href="https://azure.microsoft.com" title="Azure"><img height="48" src="https://skillicons.dev/icons?i=azure"/></a>
+<a href="https://www.docker.com" title="Docker"><img height="48" src="https://skillicons.dev/icons?i=docker"/></a>
+<a href="https://vercel.com" title="Vercel"><img height="48" src="https://skillicons.dev/icons?i=vercel"/></a>
+<a href="https://grafana.com" title="Grafana"><img height="48" src="https://skillicons.dev/icons?i=grafana"/></a>
 
 **Data & AI**
 
-[![](https://skillicons.dev/icons?i=python,anaconda,r)](https://skillicons.dev)
+<a href="https://www.python.org" title="Python"><img height="48" src="https://skillicons.dev/icons?i=python"/></a>
+<a href="https://www.anaconda.com" title="Anaconda"><img height="48" src="https://skillicons.dev/icons?i=anaconda"/></a>
+<a href="https://www.r-project.org" title="R"><img height="48" src="https://skillicons.dev/icons?i=r"/></a>
 
 **Editors & Version Control**
 
-[![](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
+<a href="https://code.visualstudio.com" title="VS Code"><img height="48" src="https://skillicons.dev/icons?i=vscode"/></a>
+<a href="https://git-scm.com" title="Git"><img height="48" src="https://skillicons.dev/icons?i=git"/></a>
+<a href="https://github.com" title="GitHub"><img height="48" src="https://skillicons.dev/icons?i=github"/></a>
 
 **Shell & Operating Systems**
 
-[![](https://skillicons.dev/icons?i=bash,powershell,linux,windows,apple)](https://skillicons.dev)
+<a href="https://www.gnu.org/software/bash/" title="Bash"><img height="48" src="https://skillicons.dev/icons?i=bash"/></a>
+<a href="https://learn.microsoft.com/powershell/" title="PowerShell"><img height="48" src="https://skillicons.dev/icons?i=powershell"/></a>
+<a href="https://www.kernel.org" title="Linux"><img height="48" src="https://skillicons.dev/icons?i=linux"/></a>
+<a href="https://www.microsoft.com/windows" title="Windows"><img height="48" src="https://skillicons.dev/icons?i=windows"/></a>
+<a href="https://developer.apple.com" title="Apple"><img height="48" src="https://skillicons.dev/icons?i=apple"/></a>
 
 **Design & Testing**
 
-[![](https://skillicons.dev/icons?i=figma,postman)](https://skillicons.dev)
+<a href="https://www.figma.com" title="Figma"><img height="48" src="https://skillicons.dev/icons?i=figma"/></a>
+<a href="https://www.postman.com" title="Postman"><img height="48" src="https://skillicons.dev/icons?i=postman"/></a>
 
 **Community & Docs**
 
-[![](https://skillicons.dev/icons?i=discord,markdown,stackoverflow)](https://skillicons.dev)
+<a href="https://discord.com" title="Discord"><img height="48" src="https://skillicons.dev/icons?i=discord"/></a>
+<a href="https://www.markdownguide.org" title="Markdown"><img height="48" src="https://skillicons.dev/icons?i=markdown"/></a>
+<a href="https://stackoverflow.com" title="Stack Overflow"><img height="48" src="https://skillicons.dev/icons?i=stackoverflow"/></a>
 
 </div>
 
