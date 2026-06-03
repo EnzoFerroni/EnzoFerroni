@@ -99,6 +99,7 @@ let enzo = Developer(
 **Community & Docs**
 
 <a href="https://discord.com" title="Discord"><img height="48" src="https://skillicons.dev/icons?i=discord"/></a>
+<a href="https://www.linkedin.com/in/enzoferroni/" title="LinkedIn — Enzo Ferroni"><img height="48" src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="https://www.markdownguide.org" title="Markdown"><img height="48" src="https://skillicons.dev/icons?i=markdown"/></a>
 <a href="https://stackoverflow.com" title="Stack Overflow"><img height="48" src="https://skillicons.dev/icons?i=stackoverflow"/></a>
 
