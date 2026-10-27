@@ -74,7 +74,7 @@ let enzo = Developer(
 
 ## ✨ Highlights
 
-- 💛 **[Zelu](https://github.com/EnzoFerroni/Zelu)**: SwiftUI + SpriteKit app to keep friendships alive, published on the App Store under my name
+- 💛 **[Zelu](https://github.com/EnzoFerroni/Zelu)**: SwiftUI + SpriteKit app to keep friendships alive, published on the App Store under my name, plus its [landing page](https://github.com/EnzoFerroni/zelu-landing) written in Swift with Ignite
 - 👻 **[Causos Ocultos Quixeramobim](https://github.com/EnzoFerroni/CausosOcultos)**: SpriteKit horror game for iPhone and Apple Watch inspired by the folklore of Quixeramobim, on the App Store
 - 🗓️ **[Alinha](https://github.com/EnzoFerroni/AlinhaProject)**: mentorship queue system for iOS, macOS and tvOS with a Vapor backend, built by a ~30-person team at the Apple Developer Academy
 - 🔬 **[iOS reverse engineering research](https://github.com/EnzoFerroni/ios-reverse-engineering-lab)**: PIBIC Mackenzie undergraduate research (2026) with Ghidra, radare2 and Frida
