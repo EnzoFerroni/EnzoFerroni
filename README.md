@@ -4,15 +4,15 @@
 
 <br/>
 
-[![Apple Developer Academy](https://img.shields.io/badge/Apple_Developer_Academy-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/EnzoFerroni)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enzoferroni)
-![Visitors](https://komarev.com/ghpvc/?username=EnzoFerroni&style=for-the-badge&color=FA7343&label=VISITORS)
+[![Apple Developer Academy](https://img.shields.io/badge/Apple_Developer_Academy-000000?logo=apple&logoColor=white)](https://github.com/EnzoFerroni)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enzoferroni)
+![Visitors](https://komarev.com/ghpvc/?username=EnzoFerroni&color=FA7343&label=VISITORS)
 
 </div>
 
 ---
 
-## 👨‍💻 Who am I?
+## Who am I?
 
 ```swift
 let enzo = Developer(
@@ -26,7 +26,7 @@ let enzo = Developer(
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -99,7 +99,7 @@ let enzo = Developer(
 **Community & Docs**
 
 <a href="https://discord.com" title="Discord"><img height="48" src="https://skillicons.dev/icons?i=discord"/></a>
-<a href="https://www.linkedin.com/in/enzoferroni/" title="LinkedIn — Enzo Ferroni"><img height="48" src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://www.linkedin.com/in/enzoferroni/" title="LinkedIn, Enzo Ferroni"><img height="48" src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="https://www.markdownguide.org" title="Markdown"><img height="48" src="https://skillicons.dev/icons?i=markdown"/></a>
 <a href="https://stackoverflow.com" title="Stack Overflow"><img height="48" src="https://skillicons.dev/icons?i=stackoverflow"/></a>
 
@@ -107,7 +107,7 @@ let enzo = Developer(
 
 ---
 
-## 📊 Contributions
+## Contributions
 
 <div align="center">
 
@@ -116,5 +116,3 @@ let enzo = Developer(
 <img src="https://raw.githubusercontent.com/EnzoFerroni/EnzoFerroni/output/snake.svg" alt="Snake animation" />
 
 </div>
-
-
