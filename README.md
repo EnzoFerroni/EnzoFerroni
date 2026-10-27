@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FA7343&center=true&vCenter=true&width=700&lines=Hey%2C+I%27m+Enzo+Ferroni;iOS+Developer;Information+Systems+%26+Data+Science;Apple+Developer+Academy+%7C+Mackenzie" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FA7343&center=true&vCenter=true&width=700&lines=Hey%2C+I%27m+Enzo+Ferroni+%F0%9F%91%8B;iOS+Developer+%F0%9F%8D%8E;Information+Systems+%26+Data+Science+%F0%9F%93%8A;Apple+Developer+Academy+%7C+Mackenzie+%F0%9F%8E%93" alt="Typing SVG" />
 
 <br/>
 
@@ -20,7 +20,6 @@ let enzo = Developer(
     community: "Apple Developer Academy",
     focus:     ["iOS", "Swift", "AI/ML"],
     languages: ["Portuguese", "English"],
-    graduates: 2026,
     openTo:    ["Junior", "Trainee", "Internship"],
     currently: "Graduating in 2026"
 )
