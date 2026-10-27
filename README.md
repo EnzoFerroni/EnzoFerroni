@@ -22,7 +22,7 @@ let enzo = Developer(
     languages: ["Portuguese", "English"],
     graduates: 2026,
     openTo:    ["Junior", "Trainee", "Internship"],
-    currently: "Finishing both degrees and the Academy"
+    currently: "Graduating in 2026"
 )
 ```
 
