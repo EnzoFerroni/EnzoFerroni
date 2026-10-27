@@ -53,13 +53,18 @@ let enzo = Developer(
 <tr>
 <td align="center" width="33%">
 <a href="https://apps.apple.com/br/app/zelu/id6772319658"><img src="assets/zelu.png" width="96" alt="Zelu icon"/></a>
-<br/><b><a href="https://github.com/C13G1/Zelu">Zelu</a></b>
+<br/><b><a href="https://github.com/EnzoFerroni/Zelu">Zelu</a></b>
 <br/><sub>Keep your friendships alive</sub>
 </td>
 <td align="center" width="33%">
 <a href="https://apps.apple.com/br/app/vivacidade/id6761855371"><img src="assets/vivacidade.png" width="96" alt="Vivacidade icon"/></a>
-<br/><b><a href="https://github.com/C12G4/ProjectCidadeParaPessoas">Vivacidade</a></b>
+<br/><b><a href="https://github.com/EnzoFerroni/Vivacidade">Vivacidade</a></b>
 <br/><sub>Rediscover the city around you</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://apps.apple.com/br/app/causosocultosquixeramobim/id6759735287"><img src="assets/causos-ocultos.png" width="96" alt="Causos Ocultos icon"/></a>
+<br/><b><a href="https://github.com/EnzoFerroni/CausosOcultos">Causos Ocultos</a></b>
+<br/><sub>Folklore horror for iPhone and Watch</sub>
 </td>
 </tr>
 </table>
@@ -69,8 +74,8 @@ let enzo = Developer(
 
 ## ✨ Highlights
 
-- 💛 **[Zelu](https://github.com/C13G1/Zelu)**: SwiftUI + SpriteKit app to keep friendships alive, published on the App Store under my name
-- 👻 **[Causos Ocultos Quixeramobim](https://github.com/C11G3/CausosOcultosQuixeramobim)**: SpriteKit game for iPhone and Apple Watch inspired by the local stories of Quixeramobim
+- 💛 **[Zelu](https://github.com/EnzoFerroni/Zelu)**: SwiftUI + SpriteKit app to keep friendships alive, published on the App Store under my name
+- 👻 **[Causos Ocultos Quixeramobim](https://github.com/EnzoFerroni/CausosOcultos)**: SpriteKit horror game for iPhone and Apple Watch inspired by the folklore of Quixeramobim, on the App Store
 - 🗓️ **[Alinha](https://github.com/EnzoFerroni/AlinhaProject)**: mentorship queue system for iOS, macOS and tvOS with a Vapor backend, built by a ~30-person team at the Apple Developer Academy
 - 🔬 **[iOS reverse engineering research](https://github.com/EnzoFerroni/ios-reverse-engineering-lab)**: PIBIC Mackenzie undergraduate research (2026) with Ghidra, radare2 and Frida
 - 🧠 **On-device AI**: [SwiftExpressions](https://github.com/EnzoFerroni/SwiftExpressions) (Core ML + Vision) and [Diario](https://github.com/EnzoFerroni/Diario) (Apple Intelligence Foundation Models)
