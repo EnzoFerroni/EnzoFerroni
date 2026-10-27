@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FA7343&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Enzo+Ferroni+%F0%9F%91%8B;iOS+Developer+%F0%9F%8D%8E;Always+building+something+%E2%9C%8C%EF%B8%8F;Let%27s+connect+%F0%9F%91%87" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FA7343&center=true&vCenter=true&width=700&lines=Hey%2C+I%27m+Enzo+Ferroni;iOS+Developer;Information+Systems+%26+Data+Science;Apple+Developer+Academy+%7C+Mackenzie" alt="Typing SVG" />
 
 <br/>
 
-[![Apple Developer Academy](https://img.shields.io/badge/Apple_Developer_Academy-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/EnzoFerroni)
+![Apple Developer Academy](https://img.shields.io/badge/Apple_Developer_Academy-000000?style=for-the-badge&logo=apple&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enzoferroni)
-![Visitors](https://komarev.com/ghpvc/?username=EnzoFerroni&style=for-the-badge&color=FA7343&label=VISITORS)
 
 </div>
 
@@ -23,7 +22,7 @@ let enzo = Developer(
     languages: ["Portuguese", "English"],
     graduates: 2026,
     openTo:    ["Junior", "Trainee", "Internship"],
-    currently: "Building cool apps for iOS"
+    currently: "Finishing both degrees and the Academy"
 )
 ```
 
@@ -87,11 +86,9 @@ let enzo = Developer(
 
 <div align="center">
 
-**Mobile**
+**Swift & Apple Frameworks**
 
 <a href="https://www.swift.org" title="Swift"><img height="48" src="https://skillicons.dev/icons?i=swift"/></a>
-
-**Apple Frameworks**
 
 <img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
 <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit"/>
@@ -150,34 +147,17 @@ let enzo = Developer(
 **Data & AI**
 
 <a href="https://www.python.org" title="Python"><img height="48" src="https://skillicons.dev/icons?i=python"/></a>
-<a href="https://www.anaconda.com" title="Anaconda"><img height="48" src="https://skillicons.dev/icons?i=anaconda"/></a>
+<a href="https://scikit-learn.org" title="scikit-learn"><img height="48" src="https://skillicons.dev/icons?i=sklearn"/></a>
 <a href="https://www.r-project.org" title="R"><img height="48" src="https://skillicons.dev/icons?i=r"/></a>
 
-**Editors & Version Control**
+**Tools**
 
-<a href="https://code.visualstudio.com" title="VS Code"><img height="48" src="https://skillicons.dev/icons?i=vscode"/></a>
 <a href="https://git-scm.com" title="Git"><img height="48" src="https://skillicons.dev/icons?i=git"/></a>
 <a href="https://github.com" title="GitHub"><img height="48" src="https://skillicons.dev/icons?i=github"/></a>
-
-**Shell & Operating Systems**
-
 <a href="https://www.gnu.org/software/bash/" title="Bash"><img height="48" src="https://skillicons.dev/icons?i=bash"/></a>
-<a href="https://learn.microsoft.com/powershell/" title="PowerShell"><img height="48" src="https://skillicons.dev/icons?i=powershell"/></a>
 <a href="https://www.kernel.org" title="Linux"><img height="48" src="https://skillicons.dev/icons?i=linux"/></a>
-<a href="https://www.microsoft.com/windows" title="Windows"><img height="48" src="https://skillicons.dev/icons?i=windows"/></a>
-<a href="https://developer.apple.com" title="Apple"><img height="48" src="https://skillicons.dev/icons?i=apple"/></a>
-
-**Design & Testing**
-
 <a href="https://www.figma.com" title="Figma"><img height="48" src="https://skillicons.dev/icons?i=figma"/></a>
 <a href="https://www.postman.com" title="Postman"><img height="48" src="https://skillicons.dev/icons?i=postman"/></a>
-
-**Community & Docs**
-
-<a href="https://discord.com" title="Discord"><img height="48" src="https://skillicons.dev/icons?i=discord"/></a>
-<a href="https://www.linkedin.com/in/enzoferroni/" title="LinkedIn — Enzo Ferroni"><img height="48" src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://www.markdownguide.org" title="Markdown"><img height="48" src="https://skillicons.dev/icons?i=markdown"/></a>
-<a href="https://stackoverflow.com" title="Stack Overflow"><img height="48" src="https://skillicons.dev/icons?i=stackoverflow"/></a>
 
 </div>
 
