@@ -20,9 +20,48 @@ let enzo = Developer(
     education: "Information Systems & Data Science @ Mackenzie",
     community: "Apple Developer Academy",
     focus:     ["iOS", "Swift", "AI/ML"],
+    languages: ["Portuguese", "English"],
+    graduates: 2026,
+    openTo:    ["Junior", "Trainee", "Internship"],
     currently: "Building cool apps for iOS"
 )
 ```
+
+---
+
+## 📱 Apps on the App Store
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://apps.apple.com/br/app/gamesource/id6749157683"><img src="https://github.com/EnzoFerroni/GameSource/raw/HEAD/docs/icon.jpg" width="96" alt="GameSource icon"/></a>
+<br/><b><a href="https://github.com/EnzoFerroni/GameSource">GameSource</a></b>
+<br/><sub>Your Steam library and achievements</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://apps.apple.com/br/app/mimi-dreams/id6747144355"><img src="https://github.com/EnzoFerroni/MimiDreams/raw/HEAD/docs/icon.png" width="96" alt="MimiDreams icon"/></a>
+<br/><b><a href="https://github.com/EnzoFerroni/MimiDreams">MimiDreams</a></b>
+<br/><sub>Dream journal with a pixel companion</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://apps.apple.com/br/app/notadiary/id6753695305"><img src="https://github.com/EnzoFerroni/NotADiary/raw/HEAD/docs/icon.jpg" width="96" alt="NotADiary icon"/></a>
+<br/><b><a href="https://github.com/EnzoFerroni/NotADiary">NotADiary</a></b>
+<br/><sub>Emotional journal with haptics and music</sub>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## ✨ Highlights
+
+- 🗓️ **[Alinha](https://github.com/EnzoFerroni/AlinhaProject)**: mentorship queue system for iOS, macOS and tvOS with a Vapor backend, built by a ~30-person team at the Apple Developer Academy
+- 🔬 **[iOS reverse engineering research](https://github.com/EnzoFerroni/ios-reverse-engineering-lab)**: PIBIC Mackenzie undergraduate research (2026) with Ghidra, radare2 and Frida
+- 🧠 **On-device AI**: [SwiftExpressions](https://github.com/EnzoFerroni/SwiftExpressions) (Core ML + Vision) and [Diario](https://github.com/EnzoFerroni/Diario) (Apple Intelligence Foundation Models)
+- 🥽 **visionOS**: [SweetShapery](https://github.com/EnzoFerroni/SweetShapery), an immersive RealityKit app
+- 🌬️ **[Exalo](https://github.com/EnzoFerroni/Exalo)**: my Swift Student Challenge 2026 submission
 
 ---
 
@@ -33,6 +72,25 @@ let enzo = Developer(
 **Mobile**
 
 <a href="https://www.swift.org" title="Swift"><img height="48" src="https://skillicons.dev/icons?i=swift"/></a>
+
+**Apple Frameworks**
+
+<img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
+<img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit"/>
+<img src="https://img.shields.io/badge/SwiftData-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftData"/>
+<img src="https://img.shields.io/badge/Core_Data-1575F9?style=for-the-badge&logo=apple&logoColor=white" alt="Core Data"/>
+<img src="https://img.shields.io/badge/CloudKit-3693F3?style=for-the-badge&logo=icloud&logoColor=white" alt="CloudKit"/>
+<img src="https://img.shields.io/badge/Core_ML-34C759?style=for-the-badge&logo=apple&logoColor=white" alt="Core ML"/>
+<img src="https://img.shields.io/badge/Vision-5856D6?style=for-the-badge&logo=apple&logoColor=white" alt="Vision"/>
+<img src="https://img.shields.io/badge/Foundation_Models-8E44AD?style=for-the-badge&logo=apple&logoColor=white" alt="Foundation Models"/>
+<img src="https://img.shields.io/badge/App_Intents-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Intents"/>
+<img src="https://img.shields.io/badge/MusicKit-FA243C?style=for-the-badge&logo=applemusic&logoColor=white" alt="MusicKit"/>
+<img src="https://img.shields.io/badge/Core_Haptics-FF9500?style=for-the-badge&logo=apple&logoColor=white" alt="Core Haptics"/>
+<img src="https://img.shields.io/badge/MapKit-30B0C7?style=for-the-badge&logo=apple&logoColor=white" alt="MapKit"/>
+<img src="https://img.shields.io/badge/RealityKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="RealityKit"/>
+<img src="https://img.shields.io/badge/GameKit-5AC8FA?style=for-the-badge&logo=apple&logoColor=white" alt="GameKit"/>
+<img src="https://img.shields.io/badge/Swift_Testing-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift Testing"/>
+<img src="https://img.shields.io/badge/Vapor-0D0D0D?style=for-the-badge&logo=swift&logoColor=white" alt="Vapor"/>
 
 **Frontend**
 
@@ -117,4 +175,15 @@ let enzo = Developer(
 
 </div>
 
+---
 
+## 📫 Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enzoferroni)
+[![Email](https://img.shields.io/badge/Email-enzoferroni%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:enzoferroni@hotmail.com)
+
+Open to **junior**, **trainee** and **internship** roles in iOS development.
+
+</div>
